@@ -1,0 +1,72 @@
+Date,mold name,mold code,Downtime_Duration_Min,reason
+2025-01-01,10 L with Chimney Back Panel 4,D-NPF-CHBP5-10L,40,إهمال فني
+2025-01-13,TRIMMING_ DIE,D-ENWH-TRD,60,إهمال فني
+2025-01-13,Enameled _TANK _FLANGE,D-ENWH-TAFD,60,عمر افتراضي
+2025-02-04,battery Box old die,D-NPF-BBMP,25,عمر افتراضي
+2025-02-04,External_Bracket_die,D-ENWH-HANWALL,60,عمر افتراضي
+2025-02-13,New Trimming Cap M/C,D-WHST002,30,إهمال فني
+2025-02-26,TURNING _DIE,D-ENWH-GAT,60,إهمال فني
+2025-03-02,ST.ST blanking die,D-WHST0011,40,إهمال فني
+2025-03-04,LOWER_ DOME_ DRAWING_ DIE,D-ENWH-TEMO,60,إهمال فني
+2025-03-09,6 L wo Chimney Back Panel 2,D-NPF-WOCHBP3-6L,30,إهمال فني
+2025-03-09,External_Bracket_die,D-ENWH-HANWALL,25,عمر افتراضي
+2025-03-18,10 L Chimney Main Base,D-NPF-CHMB-10L,20,عمر افتراضي
+2025-03-19,battery Box old die,D-NPF-BBMP,20,عمر افتراضي
+2025-03-19,6 L wo Chimney Back Panel 2,D-NPF-WOCHBP3-6L,20,عمر افتراضي
+2025-03-19,battery Box old die,D-NPF-BBMP,25,إهمال فني
+2025-03-20,Valve Bracket,D-NPF-VAB,35,عمر افتراضي
+2025-03-26,cap triming M/C,D-WHST002,30,إهمال فني
+2025-04-08,cap triming M/C,D-WHST002,30,إهمال فني
+2025-04-12,10 L Outlet Bracket,D-NPF-OUB 10L,24,إهمال فني
+2025-04-14,External_Bracket_die,D-ENWH-HANWALL,30,عمر افتراضي
+2025-04-17,LOWER_ DOME_ DRAWING_ DIE,D-ENWH-TEMO,40,إهمال فني
+2025-04-22,cap drawing die,D-WHST0022,40,إهمال فني
+2025-04-22,External_Bracket_die,D-ENWH-HANWALL,45,إهمال فني
+2025-04-28,ST.ST IOT_OUTER_CASE,D-WHST0015,45,إهمال فني
+2025-04-29,ST.ST IOT_OUTER_CASE,D-WHST0015,45,إهمال فني
+2025-04-29,Straightning vane die,D-WHST005,45,إهمال فني
+2025-04-30,Enameled _TANK _FLANGE,D-ENWH-TAFD,40,عمر افتراضي
+2025-05-04,LOWER_ DOME_ DRAWING_ DIE,D-ENWH-TEMO,45,إهمال فني
+2025-05-10,10 L Curved Side,D-NPF-CURS-10L,30,عمر افتراضي
+2025-05-12,Small_tank_flange,D-WHST0013,25,عمر افتراضي
+2025-05-14,New Trimming Cap M/C,D-WHST002,35,إهمال فني
+2025-05-14,TRIMMING_ DIE,D-ENWH-TRD,45,إهمال فني
+2025-05-18,New Tank Trunk die,D-WHST002,25,إهمال فني
+2025-05-20,New Trimming Cap M/C,D-WHST002,25,مشوار السكينة
+2025-05-28,External_Bracket_die,D-ENWH-HANWALL,30,عمر افتراضي
+2025-06-10,LOWER_ DOME_ DRAWING_ DIE,D-ENWH-TEMO,40,إهمال فني
+2025-06-17,PUNCHING _DIE,D-ENWH-FLH,55,إهمال فني
+2025-06-17,TRIMMING_ DIE,D-ENWH-TRD,45,إهمال فني
+2025-06-19,New Trimming Cap M/C,D-WHST002,25,إهمال فني
+2025-07-01,6 L wo Chimney Back Panel 2,D-NPF-WOCHBP3-6L,35,إهمال فني
+2025-08-12,Enameled _TANK _FLANGE,D-ENWH-TAFD,30,عمر افتراضي
+2025-08-20,6 L himney Top,D-NPF-CHTOP-6L,40,إهمال فني
+2025-08-20,6 L himney Top,D-NPF-CHTOP-6L,40,عمر افتراضي
+2025-08-24,LOWER_ DOME_ DRAWING_ DIE,D-ENWH-TEMO,30,إهمال فني
+2025-11-03,Heater flange,D-ENWH-HEAFL,35,عمر افتراضي
+2025-11-20,TURNING _DIE,D-ENWH-GAT,35,عمر افتراضي
+2025-11-23,ST.ST IOT_OUTER_CASE,D-WHST0015,25,عمر افتراضي
+2025-11-24,cap drawing die,D-WHST002,25,عمر افتراضي
+2025-11-24,ST.ST IOT_OUTER_CASE,D-WHST0015,25,عمر افتراضي
+2025-12-04,Heater flange,D-ENWH-HEAFL,45,عمر افتراضي
+2025-12-10,Small_tank_flange,D-WHST0013,35,عمر افتراضي
+2026-01-07,battery Box old die,D-NPF-BBMP,35,عمر افتراضي
+2026-01-07,midea front shell,D-GWH-FR10L1,35,عمر افتراضي
+2026-03-04,LOWER_ DOME_ DRAWING_ DIE,D-ENWH-TEMO,60,عمر افتراضي
+2026-03-04,Heater flange,D-ENWH-HEAFL,60,عمر افتراضي
+2026-05-07,LOWER_ DOME_ DRAWING_ DIE,D-ENWH-TEMO,50,إهمال فني
+2026-05-07,TURNING _DIE,D-ENWH-GAT,50,إهمال فني
+2026-05-10,10 L Curved Side,D-NPF-CURS-10L,40,عمر افتراضي
+2026-05-11,REVITING_ DIE,D-ENWH-FLR,40,إهمال فني
+2026-05-12,Small_tank_flange,D-WHST0013,35,عمر افتراضي
+2026-05-13,Enameled _TANK _FLANGE,D-ENWH-TAFD,60,إهمال فني
+2026-05-14,New Trimming Cap M/C,D-WHST002,20,إهمال فني
+2026-05-14,TRIMMING_ DIE,D-ENWH-TRD,55,إهمال فني
+2026-05-20,New Trimming Cap M/C,D-WHST002,30,مشوار السكينة
+2026-05-27,New Trimming Cap M/C,D-WHST002,25,إهمال فني
+2026-05-28,External_Bracket_die,D-ENWH-HANWALL,35,عمر افتراضي
+2026-06-10,LOWER_ DOME_ DRAWING_ DIE,D-ENWH-TEMO,50,إهمال فني
+2026-07-07,Enameled _TANK _FLANGE,D-ENWH-TAFD,30,عمر افتراضي
+2026-07-09,midea front shell,D-GWH-FR10L1,40,عمر افتراضي
+2026-07-12,10L -water outlet bracket,D-NPF-IGUB,35,عمر افتراضي
+2026-08-18,TRIMMING_ DIE,D-ENWH-TRD,30,وجود رايش بالقطع
